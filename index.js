@@ -7,6 +7,6 @@ function getListObjects(listObjs) {
 }
 
 module.exports = {
-	getListObjects;
+	getListObjects
 }
 
